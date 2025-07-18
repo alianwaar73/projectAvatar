@@ -18,7 +18,6 @@
 - [Decentralized Storage & CID](#decentralized-storage--cid)
 - [Digital Ownership and Provenance Verification](#digital-ownership-and-provenance-verification)
 - [References & Related Links](#references--related-links)
-- [TODOs](#todos)
 
 ---
 
